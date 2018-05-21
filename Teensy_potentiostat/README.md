@@ -1,3 +1,4 @@
+	
 	The Code is intended to enable the microcontroller to read and write data at particular pins. Besides, it 
 will specific all relevant parameters such as clock speed, baud rate and etc, inorder to match the peripheral devices. 
 The code will be written in C to configure I2C protocol, UART communication SPI.
