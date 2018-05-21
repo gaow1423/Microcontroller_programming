@@ -1,3 +1,5 @@
+	The Code is intended to enable the microcontroller to read and write data at particular pins. Besides, it will specific all relevant parameters such as clock speed, baud rate and etc, in order to match the peripheral devices. The code will be written in C to configure I2C protocol, UART communication and SPI.
+
 Note: The compile should include AVR library in order to run main.c. The Makefile is referenced from public domain. 
 
 Follow the instruction below:
